@@ -4,5 +4,14 @@
   "artist": "NAKAYAMA Atsushi",
   "author": "NAKAYAMA Atsushi",
   "cover": "https://i.imgur.com/fmZwexC.jpg",
-  "chapters": {}
+  "chapters": {
+    "10": {
+      "title": "Chapter 10",
+      "volume": "1",
+      "last_updated": "1639415393",
+      "groups": {
+        "Cave Rat Scans ": "/proxy/api/imgur/chapter/UPgdd0s"
+      }
+    }
+  }
 }
