@@ -1,8 +1,19 @@
-{    
-    "title": "Suicide Girl",
-    "description": "A story where a girl of light fights against the darkness of the world.",
-    "author": "NAKAYAMA Atsushi",
-    "artist": "NAKAYAMA Atsushi",
-    "cover": "https://i.imgur.com/fmZwexC.jpg",
-    "chapters": {}
+{
+  "title": "Suicide Girl",
+  "description": "A story where a girl of light fights against the darkness of the world.",
+  "artist": "NAKAYAMA Atsushi",
+  "author": "NAKAYAMA Atsushi",
+  "cover": "https://i.imgur.com/fmZwexC.jpg",
+  "chapters": {
+    "10": {
+      "title": "Chapter 10",
+      "volume": "1",
+      "last_updated": "1639410615",
+      "groups": {
+        "Cave Rat Scans": [
+          "https://drive.google.com/uc?export=view&id=1-M6yAi6RGCbeJiVNIne71McciwVqvVGV"
+        ]
+      }
+    }
+  }
 }
